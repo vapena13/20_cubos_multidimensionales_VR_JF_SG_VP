@@ -1,0 +1,6 @@
+data_heavy/
+*.nc
+__pycache__/
+.ipynb_checkpoints/
+.quarto/
+*_files/
